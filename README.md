@@ -1,22 +1,24 @@
-<!-- ========================= -->
+<!-- ========================================================= -->
 
-<!--        HEADER             -->
+<!--                    ATHARVA15007                           -->
 
-<!-- ========================= -->
+<!--                 GITHUB PROFILE README                     -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=220&section=header&text=Atharva%20Dharmare&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=220&section=header&text=Atharva%20Dharmare&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=17" width="100%"/>
 
 </div>
 
 <div align="center">
 
-# 👋 Hey, I'm Atharva!
+# 👋 Hi, I'm Atharva Dharmare
 
-### 💻 Computer Science Student • 🤖 AI/ML Enthusiast • 🚀 Builder
+### 💻 Software Engineer • 🤖 AI/ML Enthusiast • 🧠 Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&width=750&lines=Building+AI-powered+projects;Learning+Machine+Learning+%26+Data+Science;Exploring+Full-Stack+Development;Turning+ideas+into+working+projects;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=238636&center=true&vCenter=true&width=800&lines=Building+real-world+software+projects+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Solving+DSA+%26+algorithmic+problems+%F0%9F%A7%A0;Learning+Full-Stack+Development+%F0%9F%8C%90;Turning+ideas+into+working+products+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -32,36 +34,20 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```python
-class Atharva:
+I'm a Computer Science student passionate about building software, solving problems, and exploring Artificial Intelligence and Machine Learning.
 
-    def __init__(self):
-        self.name = "Atharva Dharmare"
-        self.username = "Atharva15007"
-        self.role = "Computer Science Student"
-        self.focus = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Science",
-            "Full-Stack Development"
-        ]
-        self.currently_learning = [
-            "Python",
-            "Machine Learning",
-            "React",
-            "FastAPI",
-            "SQL",
-            "Git & GitHub"
-        ]
+I enjoy working across the stack — from writing algorithms and backend APIs to building interactive web applications and data-driven systems.
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile! 🚀")
-
-
-me = Atharva()
-me.say_hi()
+```text
+💻 Software Development
+🤖 Artificial Intelligence & Machine Learning
+📊 Data Science
+🧠 Data Structures & Algorithms
+🌐 Full-Stack Development
+🗄️ Databases
+⚙️ System Design
 ```
 
 ---
@@ -70,28 +56,21 @@ me.say_hi()
 
 * 🛡️ **SystemGuard AI** — Real-time system monitoring & anomaly detection
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🌐 Building **full-stack applications**
-* 📊 Learning **Data Science & data-driven development**
-* 🧠 Strengthening my **DSA & problem-solving skills**
-* 🔧 Learning how to build and deploy complete projects
+* 🌐 Building **full-stack web applications**
+* 🧠 Improving **DSA & problem-solving**
+* 📊 Learning **Data Science & analytics**
+* ⚙️ Exploring scalable backend systems and APIs
+* 🔧 Turning ideas into practical, deployable projects
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
-
-</p>
-
-### 🤖 AI / Data
+### 💻 Programming Languages
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
 
 </p>
 
@@ -99,15 +78,31 @@ me.say_hi()
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,bootstrap" />
 
 </p>
 
-### 🗄️ Database & Tools
+### 🤖 AI / Data Science
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 
 </p>
 
@@ -117,13 +112,23 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Atharva15007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark" />
+<a href="https://github.com/Atharva15007">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva15007&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Atharva15007&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark" />
+
+</a>
+
+<a href="https://github.com/Atharva15007">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva15007&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+
+</a>
 
 </div>
 
-<br/>
+---
+
+# 📌 GitHub Overview
 
 <div align="center">
 
@@ -137,7 +142,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva15007&bg_color=0D1117&color=FFFFFF&line=238636&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva15007&bg_color=0D1117&color=FFFFFF&line=238636&point=FFFFFF&area=true&hide_border=true&custom_title=Atharva%27s%20Contribution%20Activity" width="95%" />
 
 </div>
 
@@ -147,7 +152,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Atharva15007&theme=github-dark-blue&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=Atharva15007&theme=github-dark-blue&hide_border=true&border_radius=10" width="95%" />
 
 </div>
 
@@ -157,7 +162,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Atharva15007&theme=flat&no-frame=true&no-bg=true&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Atharva15007&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="95%" />
 
 </div>
 
@@ -168,7 +173,9 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/Atharva15007/SystemGuard-AI">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva15007&repo=SystemGuard-AI&theme=github_dark&hide_border=true" />
+
 </a>
 
 </div>
@@ -177,119 +184,163 @@ me.say_hi()
 
 **AI-Powered Real-Time System Monitoring & Anomaly Detection Platform**
 
-SystemGuard AI monitors system resources such as:
+A full-stack monitoring platform designed to monitor system resources and identify abnormal behavior.
 
-* 🖥️ CPU usage
-* 🧠 RAM usage
-* 💾 Disk usage
-* 🌐 Network activity
+**Features**
+
+* 🖥️ Real-time CPU monitoring
+* 🧠 RAM monitoring
+* 💾 Disk monitoring
+* 🌐 Network monitoring
 * 🤖 Anomaly detection
-* 📊 Real-time dashboard
-* 🗄️ Database integration
-* ⚡ WebSocket-based live monitoring
+* 📊 Interactive dashboard
+* ⚡ WebSocket-based real-time updates
+* 🗄️ PostgreSQL database
+* 🚀 FastAPI backend
+* ⚛️ React frontend
 
-**Tech:** `Python` `FastAPI` `React` `PostgreSQL` `Machine Learning` `WebSockets`
+**Tech Stack**
 
-🔗 [View Project →](https://github.com/Atharva15007/SystemGuard-AI)
+`Python` `FastAPI` `React` `PostgreSQL` `WebSockets` `Machine Learning`
 
----
-
-## 📌 More Projects
-
-> 🚧 More projects are currently being built and will be added here.
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/Atharva15007?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Atharva15007/SystemGuard-AI">
+
+<img src="https://img.shields.io/badge/View%20SystemGuard%20AI-238636?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 </div>
 
 ---
 
-# 🐍 Watch My Contributions Get Eaten!
+## 📂 Explore My Repositories
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Atharva15007/Atharva15007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<a href="https://github.com/Atharva15007?tab=repositories">
+
+<img src="https://img.shields.io/badge/View%20All%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
 
 </div>
 
 ---
 
-# 💡 My Learning Journey
+# 🧠 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/datharva/">
+
+<img src="https://img.shields.io/badge/LeetCode-datharva-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</a>
+
+</div>
+
+<br/>
+
+I regularly work on improving my understanding of:
 
 ```text
-Computer Science
-       │
-       ├── 💻 Programming
-       │      ├── Python
-       │      ├── C++
-       │      └── JavaScript
-       │
-       ├── 🧠 Computer Science
-       │      ├── DSA
-       │      ├── DBMS
-       │      └── Operating Systems
-       │
-       ├── 🤖 Artificial Intelligence
-       │      ├── Machine Learning
-       │      ├── Data Science
-       │      └── Anomaly Detection
-       │
-       └── 🌐 Development
-              ├── React
-              ├── FastAPI
-              ├── PostgreSQL
-              └── Full-Stack Projects
+Arrays & Strings
+        ↓
+Hashing
+        ↓
+Linked Lists
+        ↓
+Stacks & Queues
+        ↓
+Trees & Graphs
+        ↓
+Recursion & Backtracking
+        ↓
+Dynamic Programming
+        ↓
+Algorithms & Optimization
 ```
+
+---
+
+# 📊 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Atharva15007&show_icons=true&hide=issues&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+
+</div>
 
 ---
 
 # 🎯 2026 Goals
 
 * [ ] Build more real-world AI/ML projects
-* [ ] Improve DSA & problem-solving
+* [ ] Strengthen Data Structures & Algorithms
 * [ ] Learn advanced Machine Learning
 * [ ] Build and deploy full-stack applications
 * [ ] Contribute to Open Source
-* [ ] Build a strong GitHub portfolio
-* [ ] Keep improving every day 🚀
+* [ ] Improve system design knowledge
+* [ ] Build a stronger developer portfolio
+* [ ] Keep learning and building consistently 🚀
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
+
+<a href="mailto:datharva157@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-datharva157%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</a>
+
+<a href="https://www.linkedin.com/in/atharva-dharmare/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Atharva%20Dharmare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</a>
+
+<a href="https://leetcode.com/datharva/">
+
+<img src="https://img.shields.io/badge/LeetCode-datharva-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</a>
 
 <a href="https://github.com/Atharva15007">
-<img src="https://img.shields.io/badge/GitHub-Atharva15007-181717?style=for-the-badge&logo=github" />
-</a>
 
-<!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
+<img src="https://img.shields.io/badge/GitHub-Atharva15007-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
 
-<br/>
+---
+
+# ⚡ Fun Fact
 
 <div align="center">
 
-### 💬 "Learn. Build. Break. Fix. Repeat. 🚀"
-
-<br/>
-
-⭐ If you find something useful in my repositories, feel free to star it!
+### I analyze algorithm time complexity in `O(1)` time while my code compiles. 😎
 
 </div>
 
 ---
 
 <div align="center">
+
+### 💻 Learn • Build • Solve • Repeat 🚀
+
+<br/>
+
+⭐ If you find something useful in my repositories, consider giving it a star!
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
 
