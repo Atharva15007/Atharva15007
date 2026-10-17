@@ -30,8 +30,9 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=atharva15007&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-
+<a href="https://github.com/Atharva15007">
+  <img src="https://komarev.com/ghpvc/?username=Atharva15007&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
 </div>
 
 ---
