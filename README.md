@@ -81,27 +81,20 @@ I'm **Atharva Dharmare**, a developer interested in building useful software, so
     <td width="50%" valign="top">
       <h3>🛡️ SystemGuard AI</h3>
       A system-monitoring and anomaly-detection project focused on CPU, memory, disk, and network metrics.
-
+     <table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ SystemGuard AI</h3>
+      <p>A system-monitoring and anomaly-detection project focused on CPU, memory, disk, and network metrics.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
       </p>
-
-      <!-- Replace this URL if the project uses a different repository. -->
-      <a href="https://github.com/atharva15007/SystemGuard-AI">View project →</a>
+      <a href="https://github.com/Atharva15007/SystemGuard-AI">View project →</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>💻 Open Source Contributions</h3>
-      Explore my work on open-source frameworks, bug fixes, testing, and developer tooling.
-
-      <p>
-        <img src="https://img.shields.io/badge/Open%20Source-Contributing-8B5CF6?style=flat-square&logo=github" alt="Open source"/>
-        <img src="https://img.shields.io/badge/Code-Quality-06B6D4?style=flat-square" alt="Code quality"/>
-      </p>
-
-      <a href="https://github.com/atharva15007?tab=repositories">Explore repositories →</a>
-    </td>
+  </tr>
+</table>
   </tr>
 </table>
 
