@@ -76,12 +76,7 @@ I'm **Atharva Dharmare**, a developer interested in building useful software, so
 
 <!-- Replace the example repository names below with real repositories you want to showcase. -->
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ SystemGuard AI</h3>
-      A system-monitoring and anomaly-detection project focused on CPU, memory, disk, and network metrics.
-     <table width="100%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ SystemGuard AI</h3>
@@ -93,8 +88,6 @@ I'm **Atharva Dharmare**, a developer interested in building useful software, so
       </p>
       <a href="https://github.com/Atharva15007/SystemGuard-AI">View project →</a>
     </td>
-  </tr>
-</table>
   </tr>
 </table>
 
