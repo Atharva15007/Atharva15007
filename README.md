@@ -154,24 +154,6 @@ A system-monitoring and anomaly-detection project focused on CPU, memory, disk, 
 
 ---
 
-## 🎧 Currently Listening
-
-<div align="center">
-
-<a href="https://github.com/atharva15007?tab=followers">
-  <img
-    src="https://img.shields.io/github/followers/atharva15007?label=Followers&style=for-the-badge&logo=github"
-    alt="GitHub followers"
-  />
-</a>
-
-</div>
-
-<!-- Spotify widget note:
-     Replace YOUR_SPOTIFY_USER_ID with your actual Spotify user ID
-     and configure the widget service. Remove this section if unused. -->
-
----
 
 ## 🤝 Let's Connect
 
