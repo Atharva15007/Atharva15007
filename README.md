@@ -74,27 +74,12 @@ I'm **Atharva Dharmare**, a developer interested in building useful software, so
 
 ## 🚀 Featured Projects
 
-<!-- Replace the example repository names below with real repositories you want to showcase. -->
+### 🛡️ SystemGuard AI
+A system-monitoring and anomaly-detection project focused on CPU, memory, disk, and network metrics.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ SystemGuard AI</h3>
-      <p>A system-monitoring and anomaly-detection project focused on CPU, memory, disk, and network metrics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-      </p>
-      <a href="https://github.com/Atharva15007/SystemGuard-AI">View project →</a>
-    </td>
-  </tr>
-</table>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://camo.githubusercontent.com/3246562e6b226088d05ddfed98d7e09916e724f8b3e22101931a50682dd4f196/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466173744150492d3030393638383f7374796c653d666c61742d737175617265266c6f676f3d66617374617069266c6f676f436f6c6f723d7768697465) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://camo.githubusercontent.com/3077ad603fc97ef8746a9ba8262401bd554c42d160f3b89d559cd710d69c2f08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b)
 
-> **Before publishing:** Verify the SystemGuard AI repository URL above. If that repository is private, has a different name, or has not been pushed to GitHub, replace the link with a real public repository. Add more cards only for projects you can confidently demonstrate.
-
----
-
+[View project →](https://github.com/Atharva15007/SystemGuard-AI)
 ## 📊 GitHub Analytics
 
 <div align="center">
