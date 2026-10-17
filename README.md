@@ -133,7 +133,9 @@ I'm **Atharva Dharmare**, a developer interested in building useful software, so
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=atharva15007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub profile trophies"/>
+<a href="https://github.com/atharva15007?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github" alt="Explore my repositories"/>
+</a>
 
 </div>
 
@@ -141,7 +143,11 @@ I'm **Atharva Dharmare**, a developer interested in building useful software, so
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva15007&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=atharva15007&theme=tokyo-night&hide_border=true"
+  width="100%"
+  alt="GitHub contribution activity graph"
+/>
 
 </div>
 
@@ -182,8 +188,11 @@ I'm **Atharva Dharmare**, a developer interested in building useful software, so
 
 <div align="center">
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=true&bar_color=38bdae&bar_color_cover=false" alt="Spotify listening status"/>
+<a href="https://github.com/atharva15007?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/atharva15007?label=Followers&style=for-the-badge&logo=github"
+    alt="GitHub followers"
+  />
 </a>
 
 </div>
